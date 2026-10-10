@@ -1,6 +1,2 @@
 My First CICD Pipeline 
-data
-AWS
-Cloud
-Interview
-Gargi
+version2
